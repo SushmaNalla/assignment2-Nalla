@@ -34,11 +34,11 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
     #### Best places to visit
 
     Florida is the southeasternmost U.S. state, with the Atlantic on one side and the Gulf of Mexico on the other. It has hundreds of miles of beaches. The city of Miami is known for its Latin-American cultural influences and notable arts scene, as well as its nightlife, especially in upscale South Beach. Orlando is famed for theme parks, including Walt Disney.
-    |### Location |### Staytime|### Budget|
-    |-------------|------------|----------|
-    | Miami       | 2 days     | 260$     |
-    | Orlando     | 1 day      | 170$     |
-    | Walt Disney | 1 day      | 250$     |
+    | Location   | Staytime | Budget |
+    |------------|----------|--------|
+    | Miami      | 2 days   | 260$   |
+    | Orlando    | 1 day    | 170$   |
+    | Walt Disney| 1 day    | 250$   |
 
 
 
