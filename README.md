@@ -46,8 +46,29 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
     #### Pithy Quotes
 
     > I love deadlines. I like the whooshing sound they make as they fly by. - *Douglas Adams*
-    
+
     > Not that the story need be long, but it will take a long while to make it short. - *Henry David Thoreau*
+
+    ---
+
+    #### Maple
+
+    > Maple is a symbolic and numeric computing environment as well as a multi-paradigm programming language. It covers several areas of technical computing, such as symbolic mathematics, numerical analysis, data processing, visualization, and others. A toolbox, MapleSim, adds functionality for multidomain physical modeling and code generation.
+    [Lear more]<https://en.wikipedia.org/wiki/Maple_(software)>
+
+    ```
+    myfac := proc(n::nonnegint)
+   local out, i;
+   out := 1;
+   for i from 2 to n do
+       out := out * i
+   end do;
+   out
+end proc;
+
+```
+[code source]<https://en.wikipedia.org/wiki/Maple_(software)>
+
 
 
 
