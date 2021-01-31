@@ -40,6 +40,14 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
     | Orlando    | 1 day    | 170$   |
     | Walt Disney| 1 day    | 250$   |
     | Key West   | 2 days   | 320    |
+
+    ---
+
+    #### Pithy Quotes
+
+    > I love deadlines. I like the whooshing sound they make as they fly by. - ***Douglas Adams***
+    > Not that the story need be long, but it will take a long while to make it short. - ***Henry David Thoreau***
+
     
 
 
