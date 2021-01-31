@@ -27,7 +27,9 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
 * Optional items
     * Cinamon
 
-    Wanna know more about me <AboutMe.md>
+    [AboutMe]<https://github.com/SushmaNalla/assignment2-Nalla/blob/main/AboutMe.md>
+
+    
 
      
 
