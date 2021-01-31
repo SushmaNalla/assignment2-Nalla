@@ -8,18 +8,23 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
 
 **Chicken Biryani Receipe**
 
-1. Chicken Biryani has many ingredients     
-    1. Rice 
-    2. Chicken
-    3. oil
-    4. spices
-    5. cinamon.
-2. Chicken need to be marinated  
-    1. cook with rice for some time.
+1. Make few slits on the chicken pieces.     
+    1. Add all the ingredients in bowl
+    2. Mix everything well 
+    3. Marinate Chicken
+    4. Fry onions
+2. Add oil in the pan 
+    1. Put the marinated chicken to oil.
+    2. Add rice and cook for 30 min.
+    3. Serve chicken biryani in layers.
 
-* All the spices are added and the whole mixture is steamed about 30 minutes.
-    * Serve chicken biryani in layers.
-     * Enjoy with Raita.
+* Ingredients list for preparing Biryani
+    * Rice
+    * Chicken
+    * Onions
+    * Oil
+    * Spices
+    * Cinamon
 
      
 
