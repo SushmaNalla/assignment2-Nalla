@@ -6,7 +6,7 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
 
 ---
 
-**Chicken Biryani Receipe**
+#### Chicken Biryani Receipe
 
 1. Make few slits on the chicken pieces.     
     1. Add all the ingredients in bowl
@@ -24,6 +24,7 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
     * Onions
     * Oil
     * Spices
+* Optional items
     * Cinamon
 
      
