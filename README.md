@@ -39,6 +39,8 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
     | Miami      | 2 days   | 260$   |
     | Orlando    | 1 day    | 170$   |
     | Walt Disney| 1 day    | 250$   |
+    | Key West   | 2 days   | 320    |
+    
 
 
 
