@@ -76,9 +76,9 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
 
 ### Bonus Section
 
-![Keywest](Images/Keywest.jpg)
 ![Miami](Images/Miami.jpg)
-
+![Orlando](Images/Orlando.jpg)
+![Keywest](Images/Keywest.jpg)
 
 
 
