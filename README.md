@@ -54,7 +54,8 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
     #### Maple
 
     > Maple is a symbolic and numeric computing environment as well as a multi-paradigm programming language. It covers several areas of technical computing, such as symbolic mathematics, numerical analysis, data processing, visualization, and others. A toolbox, MapleSim, adds functionality for multidomain physical modeling and code generation.
-    [Lear more](https://en.wikipedia.org/wiki/Maple_(software))
+    
+    [Learn more](https://en.wikipedia.org/wiki/Maple_(software))
 
     ```
     myfac := proc(n::nonnegint)
