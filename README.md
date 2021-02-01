@@ -5,7 +5,6 @@
 My favorite food is chicken biryani. This is a traditional dish which is famous in **India**. I am always hungry for **chicken biryani** be it any time of the day. I love this food because of taste and it smells fabulous.
 
 ---
-
 #### Chicken Biryani Receipe
 
 1. Make few slits on the chicken pieces.     
@@ -26,7 +25,8 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
     * Spices
 * Optional items
     * Cinamon
-![chickenbiryani](Images/chickenbiryani.jpg)
+    
+    ![chickenbiryani](Images/chickenbiryani.jpg)
 
   **[AboutMe](AboutME.md)**
 
@@ -48,6 +48,7 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
 
     ---
 
+   
     #### Pithy Quotes
 
     > I love deadlines. I like the whooshing sound they make as they fly by. - *Douglas Adams*
