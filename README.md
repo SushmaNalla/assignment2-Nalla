@@ -26,7 +26,7 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
 * Optional items
     * Cinamon
     
-    
+    ![chickenbiryani](Images/chickenbiryani.jpg)
 
   **[AboutMe](AboutMe.md)**
 
