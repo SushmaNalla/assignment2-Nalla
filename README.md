@@ -30,8 +30,8 @@ My favorite food is chicken biryani. This is a traditional dish which is famous 
     
 ![chickenbiryani](Images/chickenbiryani.jpg)
 
- 
-**[AboutMe](AboutME.md)**
+
+**[Wanna know more about me?](AboutME.md)**
 
     ---
 
